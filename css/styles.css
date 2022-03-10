@@ -1,0 +1,52 @@
+.logo {
+    display: block;
+    background-color: blue;
+    width: 13%;
+    height: auto;
+
+}
+.login {
+    display: block;
+    margin-left: auto;
+    width: 21%;
+    height: auto;
+}
+
+.conteinerhead {
+    position: relative;
+    background-color: papayawhip;
+}
+
+.a {
+    display: block;
+}
+
+.shortcuts {
+    max-width: auto;
+    padding: 1rem;
+    position: relative;
+    background: linear-gradient(to right, red, purple);
+    padding: 3px;
+}
+
+.color-shortcuts {
+    background: #222;
+    color: white;
+    padding: 2rem;
+}
+
+.principal-bg {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+
+#block_container
+{
+    text-align: center;
+}
+
+#aboutme, #description
+{
+    display: inline;
+}
