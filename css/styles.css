@@ -41,12 +41,35 @@
     width: auto\9; /* ie8 */
 }
 
-#block_container
+
+#profile, #description
 {
+    display: inline;
+}
+
+.sidebar {
+    background-color: #EFEFEF;
+    height: auto;
+    text-align: center;
+    vertical-align: top;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+.principal {
+    background-color: #C0C0C0;
     text-align: center;
 }
 
-#aboutme, #description
-{
-    display: inline;
+.tittle {
+    text-align: left;
+}
+
+.experience_image {
+    height: 70%;
+    width: 70%;
+}
+
+.footer {
+    background-color: blue;
 }
